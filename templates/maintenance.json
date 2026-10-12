@@ -1,9 +1,9 @@
 {
   "$comment": "Maintenance announcement. Placeholders: {{title}}, {{start_unix}}, {{duration}}, {{reason}}, {{extra}}",
-  "color": "#ffa000",
+  "color": "#f0c040",
   "title": "🛠️ Network maintenance — {{title}}",
   "image": "assets/banner-maintenance.png",
   "thumbnail": "assets/logo.png",
-  "description": "{{title}} drops at <t:{{start_unix}}:F> (<t:{{start_unix}}:R>) — and we're bringing it to the whole network!\n\nTo apply the update network-wide, **all Aselion servers will be offline for about {{duration}}** starting at <t:{{start_unix}}:t>.\n\n**What this means for you:**\n- 🎮 Get disconnected at <t:{{start_unix}}:t>? That's us — not your PC\n- 🔄 Just reconnect later, your progress is safe\n- 🆕 After the update you'll need the latest Hytale client version to join\n\nSee you on the other side! 🚀",
+  "description": "{{title}} drops at <t:{{start_unix}}:F> (<t:{{start_unix}}:R>), we're bringing it to the whole network!\n\nTo apply the update network wide, **all Aselion servers will be offline for about {{duration}}** starting at <t:{{start_unix}}:t>.\n\n**What this means for you:**\n- 🎮 Get disconnected at <t:{{start_unix}}:t>? That's us, not your PC\n- 🔄 Just reconnect later, your progress is safe\n- 🆕 After the update you'll need the latest Hytale client version to join\n\nSee you on the other side! 🚀",
   "footer": "Aselion Network Team"
 }
